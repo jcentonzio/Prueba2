@@ -94,7 +94,7 @@ class Index extends \Magento\Framework\View\Element\Template
     protected $_storeManager;
 
     /**
-     * Parametros de campañas SEM
+     * Parametros de campanas SEM
      *
      * @var \General\CampaignParams\Helper\Data
      */
